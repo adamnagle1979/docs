@@ -21,7 +21,7 @@ You can also see deployment information on the "Conversation" tab of a pull requ
 
 ### Viewing the deployments dashboard
 
-{% data reusables.repositories.navigate-to-repo %}
+{% remove project from user%}
 2. Above the list of files, click **Environments**.
 ![Environments on top of repository page](/assets/images/help/repository/environments.png)
 
